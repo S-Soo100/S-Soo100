@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Soo100
 - 👀 I’m interested in Cats
-- 🌱 I’m currently learning Flutter and... sort of "computer" things..
+- 🌱 I’m currently leading a team of Software developers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
