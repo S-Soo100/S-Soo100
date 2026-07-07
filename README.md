@@ -15,6 +15,7 @@ AI를 도구가 아니라 **개발 환경(harness)**으로 다루는 **AI-native
 ### 📦 요즘 프로젝트
 | 프로젝트 | 설명 |
 |---|---|
+| [harness-engineering](https://github.com/S-Soo100/harness-engineering) | AI 코딩 에이전트를 개발 환경(harness)으로 설계하는 방법론 — CAOF 프레임워크 + 플레이북 + 참조 도구 |
 | [costco-price-tag-parser](https://github.com/S-Soo100/costco-price-tag-parser) | 코스트코 가격표 OCR 파서 — 한 로직을 **Dart·Python·TS**로, 골든 오라클로 동기화 |
 | [lol-jgl-agent](https://github.com/S-Soo100/lol-jgl-agent) | 롤 정글러 맞춤 코칭 도구 — 경기 데이터 분석 + Claude 피드백 |
 | [Resource-Planning-System](https://github.com/S-Soo100/Resource-Planning-System) | KARS — 기업용 자동화 재고관리 시스템 (React/TS) |
